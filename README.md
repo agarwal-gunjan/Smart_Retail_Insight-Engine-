@@ -1,6 +1,7 @@
 # Smart_Retail_Insight-Engine
 Predicting Daily Revenue & Classifying High vs Low Sales Days Using Machine Learning
-Overview
+
+## Overview
 
 Retailers often struggle with unpredictable revenue and uncertain demand patterns.
 This project builds a dual-model AI system that:
